@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="Rule" max_length="40" name="x_8721_srr_rule" type="collection">
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element label="Group" max_length="32" name="group" reference="sys_user_group" reference_qual="active=true^EQ" reference_qual_condition="active=true^EQ" type="reference"/>
+        <element choice="3" default="simple" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element label="Simple" sequence="10" value="simple"/>
+                <element label="Schedule" sequence="20" value="schedule"/>
+                <element label="Session" sequence="30" value="user_session"/>
+                <element label="User Schedule" sequence="40" value="user_schedule"/>
+                <element label="User Status" sequence="50" value="user_status"/>
+            </choice>
+        </element>
+        <index name="index">
+            <element name="group"/>
+        </index>
+    </element>
+</database>
