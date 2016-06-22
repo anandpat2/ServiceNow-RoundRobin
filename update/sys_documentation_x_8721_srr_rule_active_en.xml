@@ -16,10 +16,10 @@
             <sys_id>4f08e77a0f80ae004a738d8ce1050e3b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>Active</sys_name>
-            <sys_package display_value="Simple Round Robin" source="x_8721_srr">176c97f60f40ae004a738d8ce1050eeb</sys_package>
+            <sys_package display_value="Round Robin" source="x_8721_srr">176c97f60f40ae004a738d8ce1050eeb</sys_package>
             <sys_policy/>
             <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-            <sys_scope display_value="Simple Round Robin">176c97f60f40ae004a738d8ce1050eeb</sys_scope>
+            <sys_scope display_value="Round Robin">176c97f60f40ae004a738d8ce1050eeb</sys_scope>
             <sys_update_name>sys_documentation_x_8721_srr_rule_active_en</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2016-06-20 15:48:40</sys_updated_on>

@@ -130,17 +130,17 @@
         <sys_class_name>sys_script</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2016-06-20 17:40:18</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>2eff73b20fc0ae004a738d8ce1050e74</sys_id>
         <sys_mod_count>57</sys_mod_count>
         <sys_name>Round Robin Assignment</sys_name>
         <sys_overrides/>
-        <sys_package display_value="Simple Round Robin" source="x_8721_srr">176c97f60f40ae004a738d8ce1050eeb</sys_package>
+        <sys_package display_value="Round Robin" source="x_8721_srr">176c97f60f40ae004a738d8ce1050eeb</sys_package>
         <sys_policy/>
         <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
-        <sys_scope display_value="Simple Round Robin">176c97f60f40ae004a738d8ce1050eeb</sys_scope>
+        <sys_scope display_value="Round Robin">176c97f60f40ae004a738d8ce1050eeb</sys_scope>
         <sys_update_name>sys_script_2eff73b20fc0ae004a738d8ce1050e74</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2016-06-21 18:49:17</sys_updated_on>
